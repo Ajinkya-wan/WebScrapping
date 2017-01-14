@@ -48,3 +48,4 @@ df['Judiciary_Capital']=E
 df['Year_Capital']=F
 df['Former_Capital']=G
 df
+df.to_csv('out.csv')
